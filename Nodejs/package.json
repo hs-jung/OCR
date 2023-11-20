@@ -1,0 +1,17 @@
+{
+  "name": "Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ocr-space-api": "^1.0.1",
+    "ocr-space-api-wrapper": "^2.3.0"
+  }
+}
